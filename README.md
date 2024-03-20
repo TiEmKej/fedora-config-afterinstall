@@ -1,4 +1,4 @@
-# Settuping all things up on LG Gram 16 2023
+# Setting things up on LG Gram 16 2023
 ## Step 1 - Update repo
 ```
 sudo dng upgrade
